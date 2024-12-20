@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+there!+I'm+Abdulbosit+Alijonov;Welcome+to+my+GitHub!">
 </h1>
 
-<h4 align="center">My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
+<h4 align="center">My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlijonovMe&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
@@ -18,9 +18,10 @@
 </h1>
 
 <ul>
-  <li>🌱 I am currently a Backend Developer</li>
-  <li>👨‍💻 All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
-  <li>⚡ My portfolio website: <a href="https://alijonov.uz">alijonov.uz</a></li>
+  <li>I am currently a Backend Developer</li>
+  <li>All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
+  <li>My portfolio website: <a href="https://alijonov.uz">alijonov.uz</a></li>
+  <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
 ### Languages and Tools:
