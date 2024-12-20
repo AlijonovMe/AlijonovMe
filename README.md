@@ -13,6 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AlijonovMe&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Information+about+me">
+</h1>
+
 <ul>
   <li>🌱 I am currently a Backend Developer</li>
   <li>👨‍💻 All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
