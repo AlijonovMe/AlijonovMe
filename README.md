@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlijonovMe&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlijonovMe&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
