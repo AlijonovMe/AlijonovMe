@@ -25,11 +25,11 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
   </a>&nbsp;
-   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-  </a>&nbsp;
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+   <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
