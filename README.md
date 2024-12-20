@@ -1,4 +1,6 @@
-## Hi there 👋
+<center>👋 Hi, there! I'm Abdulbosit Alijonov</center>
+
+<center>My place of study - <a href="https://najottalim.uz">Najot Ta'lim</a></center>
 
 <ul>
   <li>🌱 I am currently a Backend Developer</li>
