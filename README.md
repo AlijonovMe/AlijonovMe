@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&width=600&lines=Information+about+me">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Information+about+me">
 </h1>
 
 <ul>
