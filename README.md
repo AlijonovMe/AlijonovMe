@@ -29,13 +29,27 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  </a>&nbsp;
 </p>
 
 ### Connect with me:
