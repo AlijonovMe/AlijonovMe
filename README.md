@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">  
-  My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a>  
+  <h4>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
 </p>
 
 <ul>
