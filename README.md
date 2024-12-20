@@ -1,6 +1,14 @@
-<center>👋 Hi, there! I'm Abdulbosit Alijonov</center>
+<p align="center">  
+  <h1>👋 Hi, there! I'm Abdulbosit Alijonov</h1>  
+</p>
 
-<center>My place of study - <a href="https://najottalim.uz">Najot Ta'lim</a></center>
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/placeholder.png" width="50%" alt="divider">
+</p>
+
+<p align="center">  
+  My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a>  
+</p>
 
 <ul>
   <li>🌱 I am currently a Backend Developer</li>
