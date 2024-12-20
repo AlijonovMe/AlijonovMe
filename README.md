@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlijonovMe&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlijonovMe&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlijonovMe&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
 </p>
 
 <ul>
