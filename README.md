@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
