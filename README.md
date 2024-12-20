@@ -1,25 +1,10 @@
 ## Hi there 👋
 
-<!--
-**AlijonovMe/AlijonovMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### My GitHub Stats:
-![AlijonovMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlijonovMe&show_icons=true&theme=radical)
-
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlijonovMe&layout=compact&theme=radical)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📧 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🌱 I am currently a Backend Developer</li>
+  <li>👨‍💻 All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
+  <li>⚡ My portfolio website: <a href="https://alijonov.uz">alijonov.uz</a></li>
+</ul>
 
 ### My GitHub Stats:
 ![AlijonovMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlijonovMe&show_icons=true&theme=radical)
