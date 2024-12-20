@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AlijonovMe&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
-<h1 align="center">Information about me</h1>
+<h3 align="center">Information about me</h3>
 
 <ul>
   <li>I am a backend developer</li>
