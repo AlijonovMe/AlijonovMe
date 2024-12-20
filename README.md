@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, there! I'm Abdulbosit Alijonov</h1>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+there!+I'm+Abdulbosit+Alijonov;Welcome+to+my+GitHub!">
+</h1>
 
 <h4 align="center">My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
 
