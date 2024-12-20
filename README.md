@@ -1,10 +1,6 @@
-<p align="center">  
-  <h1>👋 Hi, there! I'm Abdulbosit Alijonov</h1>  
-</p>
+<h1 align="center">👋 Hi, there! I'm Abdulbosit Alijonov</h1>  
 
-<p align="center">  
-  <h4>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
-</p>
+<h4 align="center">My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></h4>  
 
 <ul>
   <li>🌱 I am currently a Backend Developer</li>
