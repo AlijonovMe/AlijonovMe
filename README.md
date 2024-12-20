@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/placeholder.png" width="50%" alt="divider">
-</p>
-
-<p align="center">  
   My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a>  
 </p>
 
