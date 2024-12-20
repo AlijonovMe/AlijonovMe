@@ -18,7 +18,7 @@
 </h1>
 
 <ul>
-  <li>I am currently a Backend Developer</li>
+  <li>I am a backend developer</li>
   <li>All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
   <li>My portfolio website: <a href="https://alijonov.uz">alijonov.uz</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
