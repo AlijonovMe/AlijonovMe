@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/wsvincent/awesome-django/main/logos/drf-logo.png" title="Django Rest Framework" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django Rest Framework" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
