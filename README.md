@@ -19,7 +19,6 @@
   <li>I am a backend developer</li>
   <li>All my projects are available on <a href="https://github.com/AlijonovMe?tab=repositories">AlijonovMe's GitHub</a></li>
   <li>My portfolio website: <a href="https://alijonov.uz">alijonov.uz</a></li>
-  <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
 ### Languages and Tools:
@@ -30,6 +29,9 @@
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.django-rest-framework.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/wsvincent/awesome-django/main/logos/drf-logo.png" title="Django Rest Framework" width="40" height="40"/>
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
   </a>&nbsp;
