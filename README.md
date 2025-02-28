@@ -89,7 +89,21 @@
 </p>
 
 ### Connect with me:
-<p>
-  <a href="https://t.me/AlijonovUz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://instagram.com/alijonov.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="left">
+  <a href="https://t.me/AlijonovUz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" width="50px" alt="Telegram">
+  </a>&nbsp;
+  
+  <a href="https://instagram.com/alijonov.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" alt="Instagram">
+  </a>&nbsp;
+  
+  <a href="https://github.com/yourgithubusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50px" alt="GitHub">
+  </a>&nbsp;
+  
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" alt="Email">
+  </a>
 </p>
+
