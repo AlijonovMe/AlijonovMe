@@ -51,16 +51,8 @@
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50"/>
   </a>&nbsp;
 
-  <a href="https://swagger.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=swagger" title="Swagger" width="50" height="50"/>
-  </a>&nbsp;
-
   <a href="https://www.sqlalchemy.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" title="SQLAlchemy" width="50" height="50"/>
-  </a>&nbsp;
-
-  <a href="https://jinja.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jinja" title="Jinja" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.docker.com/" target="_blank">
