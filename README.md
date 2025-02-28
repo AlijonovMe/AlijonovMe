@@ -91,19 +91,20 @@
 ### Connect with me:
 <p align="left">
   <a href="https://t.me/AlijonovUz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="50px" alt="Telegram">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram">
   </a>&nbsp;
   
   <a href="https://instagram.com/alijonov.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50px" alt="Instagram">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
   </a>&nbsp;
   
   <a href="https://github.com/yourgithubusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50px" alt="GitHub">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub">
   </a>&nbsp;
   
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50px" alt="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email">
   </a>
 </p>
+
 
