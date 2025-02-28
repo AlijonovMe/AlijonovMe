@@ -24,75 +24,75 @@
 ### Languages and Tools:
 <p>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=django" title="Django" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django Rest Framework" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=django" title="Django Rest Framework" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://redis.io/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://swagger.io/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=swagger" title="Swagger" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original.svg" title="ORM (SQLAlchemy)" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql" title="SQLAlchemy" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://jinja.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/jinja.svg" title="Jinja" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=jinja" title="Jinja" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.php.net" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" height="50"/>
   </a>&nbsp;
 </p>
 
