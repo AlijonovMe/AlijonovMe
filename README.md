@@ -47,10 +47,6 @@
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50"/>
   </a>&nbsp;
 
-  <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" title="SQLAlchemy" width="50" height="50"/>
-  </a>&nbsp;
-
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="50" height="50"/>
   </a>&nbsp;
