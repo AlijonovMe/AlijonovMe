@@ -31,10 +31,6 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" height="50"/>
   </a>&nbsp;
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" height="50"/>
-  </a>&nbsp;
-
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" title="Django" width="50" height="50"/>
   </a>&nbsp;
