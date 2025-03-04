@@ -36,7 +36,7 @@
   </a>&nbsp;
 
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django Rest Framework" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" title="Django Rest Framework" width="50" height="50"/>
   </a>&nbsp;
 
   <a href="https://redis.io/" target="_blank">
