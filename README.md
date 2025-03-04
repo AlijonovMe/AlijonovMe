@@ -47,6 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>
   </a>&nbsp;
 
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" width="50" height="50"/>
+  </a>
+  
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>
   </a>&nbsp;
