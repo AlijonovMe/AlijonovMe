@@ -82,6 +82,10 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>
   </a>&nbsp;
+  
+  <a href="https://docs.celeryq.dev/en/stable/" target="_blank">
+    <img src="https://github.com/AlijonovUz/AlijonovUz/blob/main/celery.png" title="Celery" width="50" height="50"/>
+  </a>&nbsp;
 </p>
 
 
