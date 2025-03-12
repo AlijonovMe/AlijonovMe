@@ -84,7 +84,7 @@
   </a>&nbsp;
   
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank">
-    <img src="https://github.com/AlijonovUz/AlijonovUz/blob/main/celery.png" title="Celery" width="50" height="50"/>
+    <img src="https://github.com/AlijonovUz/AlijonovUz/blob/main/celery.png" title="Celery" width="50"/>
   </a>&nbsp;
 </p>
 
